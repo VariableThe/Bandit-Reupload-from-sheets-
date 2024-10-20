@@ -1,7 +1,3 @@
-The Bandit wargame is a series of challenges designed to teach beginners the basics of Linux command-line operations. Below is a comprehensive guide to solving levels 1 through 18, including the passwords for each level.
-
----
-
 ## Level 0 ➜ Level 1
 
 *Goal:* The password for the next level is stored in a file called readme located in the home directory.
